@@ -25,6 +25,8 @@ This guide provides an overview of setting up, building, and running each compon
 Clone all repositories to your local environment.
 
 ```bash
+mkdir wasmcoder
+cd wasmcoder
 # Clone databases
 git clone https://github.com/W4153WASMCoder/ProjectResourceDB.git
 git clone https://github.com/W4153WASMCoder/UserDB.git
